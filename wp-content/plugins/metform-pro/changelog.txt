@@ -1,0 +1,104 @@
+================ Metform Pro ================
+Version: 1.3.3
+    Fixed: Simple repeater’s delete and add button visual issue
+    Fixed: Mobile widget required bug
+
+Version: 1.3.2
+	Fixed: Image select widget's extra padding issue
+
+Version: 1.3.1
+	Fixed: vendors fatal error
+
+Version: 1.3.0
+	added: Added Google Sheet API feature
+
+Version: 1.2.15
+	Removed: unnecessary controls from color picker widget
+    Fixed: Prevent from deleting simple repeater last field
+    Fixed: Mobile Widget Country code input stuck issue
+
+Version: 1.2.14
+	Fix: Type checks were invalid for Like & Dislike Widget.
+    Fix: Multistep Adaptive Form Container Height issue
+    Fix: Form to Post Multiple Attachment Upload
+    Fix: Form to Post Thumbnail set from Settings
+    Add: Image Select widget Multiselect option
+    Fix: Credit card fields negative value fix
+    Fix: Elementor `_register_controls` is soft deprecated
+    Add: Toggle Select Multiselect option added
+    Fix: Calculation field input alignment
+    Fix: Conditionally Hidden inputs functionality with attributes
+
+Version: 1.2.13
+    Fix: Fixed Scheme Namespace debug log issue
+
+Version: 1.2.12
+    Fix: Simple Repeater did not work in live preview
+    Fix: Toggle Select svg icon issue
+    Fix: File Upload widget did not work with post creation feature
+
+Version: 1.2.11
+    Added: Maximum Fraction Digits for Calculation widget
+    Tweak: Changed Multistep & Response message settings on elementor
+
+Version: 1.2.10
+    Fix: Getresponse issue. 
+    
+Version: 1.2.9
+    Added:  Error/Success Message Customization Controls
+    Fixed: Calculation widget did not work with checklist
+    
+Version: 1.2.8
+    Added: Adaptive height control multistep form
+    Fix: Simple Repeater console error
+    Fix: Mobile Widget conditional issue
+
+Version: 1.2.7
+    Fix: Critical error on toggle-select.php
+    Added: Google Map Location widget notice and documentation update
+    Fix: Toggle Select icon default value set and error check
+    
+Version: 1.2.6
+    ChangeLog:
+    Fix: Toggle Select icon vertical align issue with ElementsKit Icons
+    Fix: Syntax error issue on toggle select
+    Fix: Multistep form TAB keypress focus issue
+    Fix: Multistep form optimization
+
+Version: 1.2.5
+    ChangeLog:
+    BugFix: WooCheckout bug fix
+    Fix: Conditional logic with Email input issue
+    Fix: Toggle Select widget overflow cropping issue
+    Tweak: Signature Pad cursor type changed to crosshair
+    Fix: Conditionally hidden but Required field validation
+    Added: Signature Label position & width control
+    Added: Input Warning Text color & Typography in Signature
+    Fix: Text Area line break support on E-Mail & Form Entries
+    Removed: Woocommerce widget
+    Fix: Text domain 'metform-pro' updated
+    Fix: Color Picker widget rgba value rendering 
+    Fix: Simple Repeater label on Summary
+    Fix: Simple Repeater widget control variable fatal error
+    Removed: Simple Repeater widget warning indicator style control removed
+    Added: Icons in Toggle Select widget
+    Added: Calculation widget calculated field alignment control
+    Fix: Simple Repeater widget code optimize
+
+Version: 1.2.4
+    ChangeLog:
+    BugFix   :
+        Fix license problem
+
+Version: 1.2.3
+    ChangeLog:
+    BugFix  :
+        GDPR Typography Fixed
+        Image Select Repeater title fix
+
+    Feature Added :
+        WooCheckout
+        Post submission ( Create custom type post from Metform )
+
+    Tweak Added :
+        Spining animation on Submit button.

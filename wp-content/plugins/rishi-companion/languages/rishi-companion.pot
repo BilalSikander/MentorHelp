@@ -1,0 +1,2189 @@
+# Copyright (C) 2022 Rishi Theme
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Rishi Companion 1.1.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/rishi-companion\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-05-30T10:30:36+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+
+#. Plugin Name of the plugin
+msgid "Rishi Companion"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://rishitheme.com/rishi-companion/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Rishi companion is a plugin that offers powerful features for Rishi theme. It includes features to speed your website and tune fine your website."
+msgstr ""
+
+#. Author of the plugin
+msgid "Rishi Theme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://rishitheme.com/"
+msgstr ""
+
+#: framework/extensions/cookies-consent/config.php:4
+msgid "Cookies Consent"
+msgstr ""
+
+#: framework/extensions/cookies-consent/config.php:5
+msgid "Enable this extension in order to comply with the GDPR regulations."
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:4
+#: framework/extensions/cookies-consent/customizer.php:14
+msgid "Cookie Consent"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:18
+#: framework/extensions/progress-bar/customizer.php:18
+#: framework/extensions/socialshare/customizer.php:18
+msgid "General"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:31
+msgid "Type 1"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:36
+msgid "Type 2"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:41
+msgid "Type 3"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:52
+#: framework/extensions/cookies-consent/customizer.php:88
+#: framework/extensions/progress-bar/customizer.php:41
+msgid "Position"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:58
+#: framework/extensions/socialshare/customizer.php:77
+msgid "Left"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:59
+#: framework/extensions/socialshare/customizer.php:78
+msgid "Right"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:72
+#: framework/extensions/cookies-consent/customizer.php:108
+msgid "Maximum Width"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:94
+#: framework/extensions/progress-bar/customizer.php:46
+#: framework/extensions/socialshare/customizer.php:148
+msgid "Top"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:95
+#: framework/extensions/progress-bar/customizer.php:47
+#: framework/extensions/socialshare/customizer.php:149
+msgid "Bottom"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:121
+msgid "Cookie period"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:129
+msgid "One hour"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:130
+msgid "One day"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:131
+msgid "One week"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:132
+msgid "One month"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:133
+msgid "Three months"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:134
+msgid "Six months"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:135
+msgid "One year"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:136
+msgid "Forever"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:143
+msgid "Delay"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:146
+msgid "1 second"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:147
+msgid "2 seconds"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:148
+msgid "3 seconds"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:149
+msgid "4 seconds"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:150
+msgid "5 seconds"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:151
+msgid "10 seconds"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:152
+msgid "30 seconds"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:153
+msgid "60 seconds"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:154
+msgid "No Delay"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:160
+msgid "Content"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:162
+#: framework/extensions/cookies-consent/helpers.php:47
+msgid "We use cookies on our website to give you the most relevant experience. By continuing to use the site, you agree to the use of cookies."
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:174
+msgid "Accept Button text"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:177
+#: framework/extensions/cookies-consent/helpers.php:20
+msgid "Accept"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:187
+msgid "Decline Button text"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:190
+#: framework/extensions/cookies-consent/helpers.php:30
+msgid "Decline"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:202
+#: framework/extensions/progress-bar/customizer.php:53
+#: framework/extensions/socialshare/customizer.php:512
+msgid "Design"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:207
+msgid "Font"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:222
+msgid "Font Color"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:235
+#: framework/extensions/cookies-consent/customizer.php:259
+#: framework/extensions/cookies-consent/customizer.php:287
+#: framework/extensions/cookies-consent/customizer.php:315
+#: framework/extensions/cookies-consent/customizer.php:343
+#: framework/extensions/cookies-consent/customizer.php:371
+#: framework/extensions/cookies-consent/customizer.php:396
+#: framework/extensions/cookies-consent/customizer.php:416
+#: framework/extensions/socialshare/customizer.php:532
+#: framework/extensions/socialshare/customizer.php:591
+#: framework/extensions/socialshare/customizer.php:620
+msgid "Initial"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:243
+msgid "Link Color"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:263
+#: framework/extensions/cookies-consent/customizer.php:292
+#: framework/extensions/cookies-consent/customizer.php:320
+#: framework/extensions/cookies-consent/customizer.php:348
+#: framework/extensions/cookies-consent/customizer.php:376
+#: framework/extensions/socialshare/customizer.php:596
+#: framework/extensions/socialshare/customizer.php:625
+msgid "Hover"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:271
+msgid "Primary Button Color"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:299
+msgid "Primary Button Text Color"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:327
+msgid "Secondary Button Color"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:355
+msgid "Secondary Button Text Color"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:383
+msgid "Border Color"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:403
+#: framework/extensions/progress-bar/customizer.php:73
+#: framework/extensions/socialshare/customizer.php:603
+#: includes/Rishi_Companion_Admin.php:169
+#: includes/Rishi_Companion_Admin.php:212
+msgid "Background Color"
+msgstr ""
+
+#: framework/extensions/cookies-consent/readme.php:1
+#: framework/extensions/customizer-reset/readme.php:1
+#: framework/extensions/performance/readme.php:1
+#: framework/extensions/progress-bar/readme.php:1
+#: framework/extensions/socialshare/readme.php:1
+#: framework/extensions/transparent-header/readme.php:1
+msgid "Instructions"
+msgstr ""
+
+#: framework/extensions/cookies-consent/readme.php:4
+msgid "After installing and activating the Cookies Consent extension you will be able to configure it from this location:"
+msgstr ""
+
+#: framework/extensions/cookies-consent/readme.php:9
+#: framework/extensions/customizer-reset/readme.php:9
+#: framework/extensions/performance/readme.php:9
+#: framework/extensions/progress-bar/readme.php:9
+#: framework/extensions/socialshare/readme.php:9
+#: framework/extensions/transparent-header/readme.php:9
+msgid "Customizer"
+msgstr ""
+
+#: framework/extensions/cookies-consent/readme.php:13
+#: framework/extensions/socialshare/readme.php:13
+msgid "Navigate to %s and customize the settings to meet your needs."
+msgstr ""
+
+#: framework/extensions/cookies-consent/readme.php:16
+msgid "Customizer ➝ Cookie Consent"
+msgstr ""
+
+#: framework/extensions/customizer-reset/config.php:4
+#: framework/extensions/customizer-reset/customizer.php:4
+msgid "Customizer Reset"
+msgstr ""
+
+#: framework/extensions/customizer-reset/config.php:5
+msgid "Enable this extension in order to reset to default settings."
+msgstr ""
+
+#: framework/extensions/customizer-reset/customizer.php:13
+msgid "Reset Options"
+msgstr ""
+
+#: framework/extensions/customizer-reset/customizer.php:14
+msgid "Click this button if you want to reset all settings to their default values. This action is irreversible."
+msgstr ""
+
+#: framework/extensions/customizer-reset/readme.php:4
+msgid "After installing and activating the Customizer Reset extension you will be able to configure it from this location:"
+msgstr ""
+
+#: framework/extensions/customizer-reset/readme.php:13
+#: framework/extensions/performance/readme.php:13
+#: framework/extensions/progress-bar/readme.php:13
+#: framework/extensions/transparent-header/readme.php:13
+msgid "Navigate to %s and customize the notification to meet your needs."
+msgstr ""
+
+#: framework/extensions/customizer-reset/readme.php:16
+msgid "Customizer ➝ Customizer Reset"
+msgstr ""
+
+#: framework/extensions/performance/config.php:4
+#: framework/extensions/performance/customizer.php:4
+msgid "Performance"
+msgstr ""
+
+#: framework/extensions/performance/config.php:5
+msgid "Enable this extension in order to enable performance related settings."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:16
+msgid "Images"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:22
+msgid "Lazy Load Images"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:26
+msgid "This option will be auto disabled if you have JetPack's lazy load option enabled."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:29
+msgid "Exclude Lazy Load Images"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:39
+msgid "Exclude Above-the-fold Images"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:40
+msgid "Select the number of Above-the-fold images you want to exlude from lazy loading."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:55
+msgid "Excluded images list"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:56
+msgid "Specify keywords (e.g. image filename, CSS class, domain) from the image to be excluded (one per line)."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:66
+msgid "Images Loading Animation Type"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:71
+msgid "Fade"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:72
+msgid "Circles"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:73
+#: framework/extensions/performance/customizer.php:296
+msgid "None"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:83
+msgid "Disable Lazy Load on Featured Image"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:84
+msgid "This option will disable lazy loading for the featured image on single post."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:91
+msgid "Lightbox for Images and Galleries"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:92
+msgid "This settings will enable the lightbox feature for your images."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:97
+msgid "Disable Responsive Images"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:98
+msgid "Enable this option to disable responsive images on your website."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:103
+msgid "Add Missing Image Dimensions"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:104
+msgid "This features add width and height attributes to the images to improve the CLS."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:109
+msgid "Image Dimensions"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:110
+msgid "This option will enable the crop size for the featured images. You can disable the ones that you are not using to save your hosting space."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:116
+msgid "360x240"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:117
+msgid "This image size is used on blog and archive pages."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:122
+msgid "750x520"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:123
+msgid "This image size is used on single post with a sidebar."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:128
+msgid "1170x650"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:129
+msgid "This image size is used on single post without a sidebar."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:137
+msgid "WordPress"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:143
+msgid "Prevent Automatic Favicon Request"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:144
+msgid "Disable the automatic favicon request to speed up your site."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:150
+msgid "Remove Emojis from frontend"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:151
+msgid "Removes WordPress Emojis JavaScript file (wp-emoji-release.min.js)."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:157
+msgid "Disable Self Pingbacks"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:158
+msgid "Disable Self Pingbacks (generated when linking to an article on your own blog)."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:164
+msgid "Disable RSS Feeds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:165
+msgid "Disable WordPress generated RSS feeds and 301 redirect URL to parent."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:171
+msgid "Remove RSS Feed Links"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:172
+msgid "Disable WordPress generated RSS feed link tags."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:178
+msgid "Disable WordPress Embeds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:179
+msgid "Removes WordPress Embeds Javascript file."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:185
+msgid "Local Gravatars"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:186
+msgid "It will enable to load Gravatars from your servers (instead of making requests to the Gravatar site), to improve loading time."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:194
+msgid "CSS/JS Optimization"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:200
+msgid "Remove \"ver\" parameter from CSS and JS file calls."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:201
+msgid "Removes version query strings from your static resources to improve the caching of those resources."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:207
+msgid "Disable Gutenberg style on Page Builder"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:208
+msgid "Disable the block style css on the page built with Elementor."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:214
+msgid "Preload CSS"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:215
+msgid "Preloading your CSS helps the pages load quicker."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:221
+msgid "JavaScript Optimization"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:222
+msgid "Manage Javascript files loading on your site."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:227
+msgid "Defer JavaScript Files"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:228
+msgid "Defer loading of render-blocking JavaScript files for faster website loading."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:237
+msgid "Deferred Excluded JavaScript Files"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:238
+msgid "Specify JavaScript files to be excluded from defer (one per line)."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:245
+msgid "Delay JavaScript Files"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:246
+msgid "It Improves the loading speed by delaying the loading of JS files until user interaction such as click, scroll, etc."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:255
+msgid "Delay Behaviour"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:258
+msgid "All Scripts"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:259
+msgid "Specific Scripts"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:270
+msgid "Excluded from Delay"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:271
+msgid "Specify JavaScript files to be excluded from delaying execution (one per line)."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:281
+msgid "Delayed Scripts"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:282
+msgid "Specify JavaScript files to be included while delaying execution (one per line)."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:292
+msgid "Delay Timeout"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:293
+msgid "Set the time to load the delayed scripts if no user interaction is detected."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:297
+msgid "One second"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:298
+msgid "Two seconds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:299
+msgid "Three seconds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:300
+msgid "Four seconds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:301
+msgid "Five seconds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:302
+msgid "Six seconds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:303
+msgid "Seven seconds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:304
+msgid "Eight seconds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:305
+msgid "Nine seconds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:306
+msgid "Ten seconds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:315
+msgid "Fonts"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:321
+msgid "Display Swap"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:322
+msgid "It adds font display swap property to your Google fonts to improve its rendering."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:327
+msgid "Load Google Fonts Locally"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:328
+msgid "This will load Google fonts from your server to speed up your site."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:337
+msgid "Preload Local Fonts"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:338
+msgid "Preloading Google fonts will speed up your website speed."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:350
+msgid "Flush Local Fonts Cache"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:351
+msgid "Click the button to reset the cache of local fonts."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:362
+msgid "Elementor"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:368
+msgid "Disable Google fonts"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:369
+msgid "Enabling this option will prevent Elementor Google fonts from loading."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:374
+msgid "Disable Icons"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:375
+msgid "Enabling this option will prevent Elementor icons from loading."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:380
+msgid "Disable Font Awesome"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:381
+msgid "Enabling this option will prevent Elementor Font Awesome icons from loading."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:386
+msgid "Disable Frontend Script"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:387
+msgid "Enabling this option will prevent Elementor frontend scripts (such as swiper, dialog, share link) from loading."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:392
+msgid "Disable Elementor Pro scripts"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:393
+msgid "Enabling this option will prevent some of the scripts of Elementor Pro from loading."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:400
+#: includes/functions/ConditionsManager.php:371
+msgid "WooCommerce"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:406
+msgid "Disable Scripts and Styles"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:407
+msgid "Disables WooCommerce scripts and styles except on product, cart, and checkout pages."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:412
+msgid "Disable Cart Fragmentation"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:413
+msgid "Completely disables WooCommerce cart fragmentation script."
+msgstr ""
+
+#: framework/extensions/performance/helpers.php:631
+msgid "No feed available, please visit the <a href='%s'>homepage</a>!"
+msgstr ""
+
+#: framework/extensions/performance/readme.php:4
+msgid "After installing and activating the performance extension you will be able to configure it from this location:"
+msgstr ""
+
+#: framework/extensions/performance/readme.php:16
+msgid "Customizer ➝ Performance"
+msgstr ""
+
+#: framework/extensions/progress-bar/config.php:4
+#: framework/extensions/progress-bar/customizer.php:4
+#: framework/extensions/progress-bar/customizer.php:14
+msgid "Reading Progress Bar"
+msgstr ""
+
+#: framework/extensions/progress-bar/config.php:5
+msgid "Enable this extension to add a reading progress bar on your website."
+msgstr ""
+
+#: framework/extensions/progress-bar/customizer.php:22
+msgid "Thickness"
+msgstr ""
+
+#: framework/extensions/progress-bar/customizer.php:30
+msgid "Display Condition"
+msgstr ""
+
+#: framework/extensions/progress-bar/customizer.php:35
+msgid "Everywhere"
+msgstr ""
+
+#: framework/extensions/progress-bar/customizer.php:36
+msgid "Post"
+msgstr ""
+
+#: framework/extensions/progress-bar/customizer.php:37
+msgid "Page"
+msgstr ""
+
+#: framework/extensions/progress-bar/customizer.php:57
+msgid "Color"
+msgstr ""
+
+#: framework/extensions/progress-bar/customizer.php:78
+msgid "Progress Color"
+msgstr ""
+
+#: framework/extensions/progress-bar/readme.php:4
+msgid "After installing and activating the reading progress bar extension you will be able to configure it from this location:"
+msgstr ""
+
+#: framework/extensions/progress-bar/readme.php:16
+msgid "Customizer ➝ Reading Progress Bar"
+msgstr ""
+
+#: framework/extensions/socialshare/config.php:4
+#: framework/extensions/socialshare/customizer.php:7
+msgid "Social Sharing"
+msgstr ""
+
+#: framework/extensions/socialshare/config.php:5
+msgid "Enable this extension to add social sharing option in single post."
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:23
+#: includes/compatibility/web-stories/WebStories.php:417
+#: assets/admin/blocks/advertisement/Inspector.js:51
+#: assets/admin/blocks/author-bio/Inspector.js:87
+#: assets/admin/blocks/categories/Inspector.js:29
+#: assets/admin/blocks/facebook/inspector.js:25
+#: assets/admin/blocks/popular-posts/Inspector.js:28
+#: assets/admin/blocks/recent-posts/Inspector.js:24
+#: assets/build/blocks.js:1
+msgid "Title"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:40
+#: framework/extensions/socialshare/helpers.php:52
+msgid "SHARE THIS POST"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:53
+msgid "Open Graph Meta Tags"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:54
+msgid "Disable this option if you’re using Jetpack, Yoast or other plugins to maintain Open Graph Meta Tags"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:60
+msgid "Sticky Share"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:70
+msgid "Float"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:89
+msgid "Top Offset"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:111
+msgid "Side Offset"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:133
+#: includes/compatibility/web-stories/WebStories.php:265
+msgid "Location"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:161
+#: assets/admin/blocks/author-bio/Inspector.js:354
+#: assets/build/blocks.js:1
+msgid "Alignment"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:178
+msgid "Shape"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:185
+msgid "Square"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:186
+msgid "Circle"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:191
+msgid "Social Networks"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:196
+#: assets/admin/userSocials/UserMain.js:46
+#: assets/build/userSocial.js:1
+msgid "Facebook"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:206
+#: assets/admin/userSocials/UserMain.js:57
+#: assets/build/userSocial.js:1
+msgid "Twitter"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:216
+#: assets/admin/userSocials/UserMain.js:79
+#: assets/build/userSocial.js:1
+msgid "Pinterest"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:226
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:235
+msgid "Email"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:245
+msgid "Reddit"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:255
+msgid "Telegram"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:265
+msgid "Viber"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:275
+msgid "WhatsApp"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:285
+msgid "VKontakte"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:295
+msgid "Tumblr"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:305
+msgid "GetPocket"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:315
+msgid "Evernote"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:325
+msgid "Hacker News"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:335
+msgid "Flipboard"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:345
+msgid "Weibo"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:355
+msgid "Odnoklassniki"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:365
+msgid "Xing"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:375
+msgid "Threema"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:385
+msgid "Skype"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:395
+msgid "Line"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:409
+msgid "Set links to nofollow"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:414
+msgid "Icon Size"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:430
+msgid "Icons Spacing"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:449
+msgid "Vertical Spacing"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:471
+msgid "Bottom Spacing"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:491
+msgid "Visibility"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:503
+#: framework/extensions/transparent-header/customizer.php:75
+#: framework/extensions/transparent-header/customizer.php:157
+msgid "Desktop"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:504
+msgid "Tablet"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:505
+#: framework/extensions/transparent-header/customizer.php:77
+#: framework/extensions/transparent-header/customizer.php:159
+msgid "Mobile"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:520
+msgid "Title Color"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:546
+msgid "Title Typography"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:557
+msgid "Icon Color"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:564
+msgid "Brand"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:565
+#: includes/compatibility/web-stories/WebStories.php:356
+msgid "Custom"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:574
+msgid "Icons Color"
+msgstr ""
+
+#: framework/extensions/socialshare/readme.php:4
+msgid "After installing and activating the Social Share extension you will be able to configure it from this location:"
+msgstr ""
+
+#: framework/extensions/socialshare/readme.php:16
+msgid "Customizer ➝ Single Post ➝ Social Sharing"
+msgstr ""
+
+#: framework/extensions/transparent-header/config.php:4
+#: framework/extensions/transparent-header/customizer.php:92
+msgid "Transparent Header"
+msgstr ""
+
+#: framework/extensions/transparent-header/config.php:5
+msgid "Enable this extension in order to enable transparent header feature."
+msgstr ""
+
+#: framework/extensions/transparent-header/customizer.php:5
+msgid "Sticky Header"
+msgstr ""
+
+#: framework/extensions/transparent-header/customizer.php:34
+msgid "Only Main Row"
+msgstr ""
+
+#: framework/extensions/transparent-header/customizer.php:39
+msgid "Top & Main Row"
+msgstr ""
+
+#: framework/extensions/transparent-header/customizer.php:44
+msgid "All Rows"
+msgstr ""
+
+#: framework/extensions/transparent-header/customizer.php:49
+msgid "Main & Bottom Row"
+msgstr ""
+
+#: framework/extensions/transparent-header/customizer.php:54
+msgid "Only Top Row"
+msgstr ""
+
+#: framework/extensions/transparent-header/customizer.php:59
+msgid "Only Bottom Row"
+msgstr ""
+
+#: framework/extensions/transparent-header/customizer.php:65
+#: framework/extensions/transparent-header/customizer.php:146
+msgid "Enable on"
+msgstr ""
+
+#: framework/extensions/transparent-header/customizer.php:130
+#: assets/admin/header/EditConditions.js:96
+#: assets/build/options.js:1
+msgid "Display Conditions"
+msgstr ""
+
+#: framework/extensions/transparent-header/readme.php:4
+msgid "After installing and activating the Transparent Header extension you will be able to configure it from this location:"
+msgstr ""
+
+#: framework/extensions/transparent-header/readme.php:16
+msgid "Customizer ➝ Header ➝ Global Header"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:243
+msgid "View all stories"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:266
+msgid "You can choose where to display web stories"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:268
+msgid "Above Header"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:269
+msgid "Below Header"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:270
+msgid "Above Footer"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:271
+msgid "Below Footer"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:291
+#: includes/compatibility/web-stories/WebStories.php:330
+msgid "Shortcode"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:293
+msgid "You can also use this shortcode to add web stories in your posts and pages. %s"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:312
+msgid "%1$s These options are for pages where you display all your web stories. %2$s"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:332
+msgid "You can use this shortcode to display all your web stories. %s"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:352
+msgid "Display Type"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:355
+msgid "Display All Stories"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:375
+msgid "Number of Stories"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:397
+msgid "Number of Columns"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:414
+msgid "Order By"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:418
+msgid "Date"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:436
+msgid "Order"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:439
+msgid "Ascending"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:440
+msgid "Descending"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:459
+msgid "Show Title"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:477
+msgid "Show Author"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:495
+msgid "Show Date"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:513
+msgid "Show Description"
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:126
+#: assets/admin/components/Changelog.js:138
+#: assets/build/dashboard.js:3
+msgid "Theme"
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:130
+msgid "Plugin"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:298
+msgid "%s Single"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:306
+msgid "%s Archive"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:318
+msgid "Entire Website"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:324
+msgid "Basic"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:328
+msgid "Singulars"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:333
+msgid "Archives"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:339
+#: assets/admin/blocks/popular-posts/index.js:31
+#: assets/admin/blocks/posts-tab/index.js:31
+#: assets/admin/blocks/recent-posts/index.js:31
+#: assets/build/blocks.js:1
+msgid "Posts"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:343
+msgid "Single Post"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:348
+msgid "Post Categories"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:353
+msgid "Post Tags"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:359
+msgid "Pages"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:363
+msgid "Single Page"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:375
+msgid "Shop Home"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:380
+msgid "Single Product"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:385
+msgid "Product Archives"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:390
+msgid "Product Categories"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:395
+msgid "Product Tags"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:403
+msgid "Custom Post Types"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:410
+msgid "Specific"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:414
+msgid "Post ID"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:419
+msgid "Page ID"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:424
+#: assets/admin/options/ConditionsManager/PostIdPicker.js:76
+#: assets/build/options.js:1
+msgid "Custom Post Type ID"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:429
+msgid "Taxonomy ID"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:434
+msgid "Post with Taxonomy ID"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:440
+msgid "Other Pages"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:444
+msgid "404"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:449
+msgid "Search"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:454
+msgid "Blog"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:459
+msgid "Front Page"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:463
+#: assets/admin/blocks/author-bio/index.js:29
+#: assets/build/blocks.js:1
+msgid "Author"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:469
+msgid "User Auth"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:473
+msgid "User Logged In"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:478
+msgid "User Logged Out"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:484
+msgid "User Roles"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:494
+#: assets/admin/options/ConditionsManager.js:88
+#: assets/build/options.js:1
+msgid "Include"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:494
+#: assets/admin/options/ConditionsManager.js:89
+#: assets/build/options.js:1
+msgid "Exclude"
+msgstr ""
+
+#: includes/functions/ExtensionsManager.php:258
+msgid "Custom Fonts"
+msgstr ""
+
+#: includes/functions/ExtensionsManager.php:259
+msgid "Upload unlimited number of custom fonts."
+msgstr ""
+
+#: includes/functions/ExtensionsManager.php:269
+msgid "Sidebars"
+msgstr ""
+
+#: includes/functions/ExtensionsManager.php:270
+msgid "Create unlimited number of custom sidebars."
+msgstr ""
+
+#: includes/functions/ExtensionsManager.php:280
+msgid "White Label"
+msgstr ""
+
+#: includes/functions/ExtensionsManager.php:281
+msgid "Change theme/companion branding"
+msgstr ""
+
+#: includes/Rishi_Companion.php:241
+msgid "%1$sRishi Companion plugin%2$s requires %3$sRishi Theme%4$s to be installed and activated to work properly. Please %5$sinstall and activate%6$s the theme to use the plugin."
+msgstr ""
+
+#: includes/Rishi_Companion_Admin.php:179
+#: includes/Rishi_Companion_Admin.php:224
+msgid "Text Color"
+msgstr ""
+
+#: includes/Rishi_Companion_Admin.php:287
+msgid "Rishi Blocks"
+msgstr ""
+
+#: includes/Rishi_Companion_Admin.php:408
+#: includes/Rishi_Companion_Admin.php:437
+msgid "Image"
+msgstr ""
+
+#: includes/Rishi_Companion_Admin.php:412
+#: includes/Rishi_Companion_Admin.php:448
+msgid "Add Image"
+msgstr ""
+
+#: includes/Rishi_Companion_Admin.php:413
+#: includes/Rishi_Companion_Admin.php:449
+#: assets/admin/blocks/advertisement/Inspector.js:135
+#: assets/admin/blocks/author-bio/Inspector.js:195
+#: assets/build/blocks.js:1
+msgid "Remove Image"
+msgstr ""
+
+#: includes/Rishi_Companion_Plugin_Manager.php:33
+msgid "AffiliateX is a Gutenberg blocks plugin for affiliate marketers. You can create highly effective affiliate marketing blogs with AffiliateX blocks, increasing the conversion rate and boost your affiliate income."
+msgstr ""
+
+#: includes/Rishi_Companion_Plugin_Manager.php:39
+msgid "Mega Elements is a powerful and advanced all in one Elementor addons that help you to create a beautiful website with ease."
+msgstr ""
+
+#: includes/Rishi_Companion_Plugin_Manager.php:45
+msgid "Elementor is one of most advanced frontend drag & drop page builder to help you create pixel perfect websites in less time."
+msgstr ""
+
+#: includes/Rishi_Companion_Plugin_Manager.php:51
+msgid "WooCommerce is the world’s most popular open source eCommerce plugin that help you to create online store easily."
+msgstr ""
+
+#: includes/Rishi_Companion_Plugin_Manager.php:57
+msgid "Contact Form 7 is one of the most downloaded and popular contact form plugin to quickly add forms on your website."
+msgstr ""
+
+#. translators: %1$s: Rishi Pro plugin name
+#: includes/upgrade/110.php:43
+msgid "Rishi Companion does not support Rishi Theme v %1$s. %2$sPlease update Rishi Theme to the latest version%3$s from %4$s here %5$s."
+msgstr ""
+
+#: assets/admin/blocks/advertisement/attributes.js:5
+#: assets/admin/blocks/advertisement/index.js:29
+#: assets/build/blocks.js:1
+msgid "Advertisement"
+msgstr ""
+
+#: assets/admin/blocks/advertisement/index.js:21
+#: assets/build/blocks.js:1
+msgid "Rishi - Advertisement"
+msgstr ""
+
+#: assets/admin/blocks/advertisement/index.js:22
+#: assets/build/blocks.js:1
+msgid "Add a customizable Advertisement widgets."
+msgstr ""
+
+#: assets/admin/blocks/advertisement/index.js:30
+#: assets/build/blocks.js:1
+msgid "Advert"
+msgstr ""
+
+#: assets/admin/blocks/advertisement/Inspector.js:45
+#: assets/build/blocks.js:1
+msgid "Advertisement Settings"
+msgstr ""
+
+#: assets/admin/blocks/advertisement/Inspector.js:59
+#: assets/build/blocks.js:1
+msgid "Display Advertisement from:"
+msgstr ""
+
+#: assets/admin/blocks/advertisement/Inspector.js:63
+#: assets/admin/blocks/advertisement/Inspector.js:187
+#: assets/build/blocks.js:1
+msgid "Ad Code"
+msgstr ""
+
+#: assets/admin/blocks/advertisement/Inspector.js:64
+#: assets/build/blocks.js:1
+msgid "Upload Image"
+msgstr ""
+
+#: assets/admin/blocks/advertisement/Inspector.js:94
+#: assets/build/blocks.js:1
+msgid " Upload Image"
+msgstr ""
+
+#: assets/admin/blocks/advertisement/Inspector.js:122
+#: assets/admin/blocks/author-bio/Inspector.js:182
+#: assets/build/blocks.js:1
+msgid " Replace Image"
+msgstr ""
+
+#: assets/admin/blocks/advertisement/Inspector.js:145
+#: assets/build/blocks.js:1
+msgid "Featured Link"
+msgstr ""
+
+#: assets/admin/blocks/advertisement/Inspector.js:151
+#: assets/admin/blocks/popular-posts/Inspector.js:107
+#: assets/admin/blocks/recent-posts/Inspector.js:69
+#: assets/build/blocks.js:1
+msgid "Open in New Tab"
+msgstr ""
+
+#: assets/admin/blocks/advertisement/Inspector.js:162
+#: assets/build/blocks.js:1
+msgid "Add rel attribute nofollow"
+msgstr ""
+
+#: assets/admin/blocks/advertisement/Inspector.js:173
+#: assets/build/blocks.js:1
+msgid "Add rel attribute sponsored"
+msgstr ""
+
+#: assets/admin/blocks/author-bio/Attributes.js:8
+#: assets/build/blocks.js:1
+msgid "About me"
+msgstr ""
+
+#: assets/admin/blocks/author-bio/Attributes.js:16
+#: assets/build/blocks.js:1
+msgid "Sarah Jane"
+msgstr ""
+
+#: assets/admin/blocks/author-bio/Attributes.js:57
+#: assets/build/blocks.js:1
+msgid "Read More"
+msgstr ""
+
+#: assets/admin/blocks/author-bio/AuthorBio.js:61
+#: assets/admin/blocks/author-bio/Save.js:59
+#: assets/build/blocks.js:1
+msgid "Please use the valid gravatar email address."
+msgstr ""
+
+#: assets/admin/blocks/author-bio/index.js:21
+#: assets/build/blocks.js:1
+msgid "Rishi - Author Bio"
+msgstr ""
+
+#: assets/admin/blocks/author-bio/index.js:22
+#: assets/build/blocks.js:1
+msgid "Add a author bio widgets."
+msgstr ""
+
+#: assets/admin/blocks/author-bio/index.js:28
+#: assets/admin/blocks/author-bio/Inspector.js:100
+#: assets/build/blocks.js:1
+msgid "Author Bio"
+msgstr ""
+
+#: assets/admin/blocks/author-bio/index.js:30
+#: assets/build/blocks.js:1
+msgid "Bio"
+msgstr ""
+
+#: assets/admin/blocks/author-bio/Inspector.js:80
+#: assets/admin/blocks/facebook/inspector.js:19
+#: assets/admin/blocks/popular-posts/Inspector.js:22
+#: assets/admin/blocks/posts-tab/Inspector.js:17
+#: assets/admin/blocks/recent-posts/Inspector.js:18
+#: assets/build/blocks.js:1
+msgid "Settings"
+msgstr ""
+
+#: assets/admin/blocks/author-bio/Inspector.js:84
+#: assets/build/blocks.js:1
+msgid "Configure all the author details here:"
+msgstr ""
+
+#: assets/admin/blocks/author-bio/Inspector.js:93
+#: assets/build/blocks.js:1
+msgid "Author Name"
+msgstr ""
+
+#: assets/admin/blocks/author-bio/Inspector.js:108
+#: assets/build/blocks.js:1
+msgid "Write something about yourself..."
+msgstr ""
+
+#: assets/admin/blocks/author-bio/Inspector.js:114
+#: assets/build/blocks.js:1
+msgid "Display photo from:"
+msgstr ""
+
+#: assets/admin/blocks/author-bio/Inspector.js:154
+#: assets/build/blocks.js:1
+msgid "Upload Bio Image"
+msgstr ""
+
+#: assets/admin/blocks/author-bio/Inspector.js:221
+#: assets/build/blocks.js:1
+msgid "Author Email"
+msgstr ""
+
+#: assets/admin/blocks/author-bio/Inspector.js:241
+#: assets/build/blocks.js:1
+msgid "You can show your %sGravatar%s  image instead of manually uploading your photo. Just add your gravatar registered email address here."
+msgstr ""
+
+#: assets/admin/blocks/author-bio/Inspector.js:274
+#: assets/build/blocks.js:1
+msgid "Upload Sign Image"
+msgstr ""
+
+#: assets/admin/blocks/author-bio/Inspector.js:302
+#: assets/build/blocks.js:1
+msgid " Replace Sign Image"
+msgstr ""
+
+#: assets/admin/blocks/author-bio/Inspector.js:315
+#: assets/build/blocks.js:1
+msgid "Remove Sign Image"
+msgstr ""
+
+#: assets/admin/blocks/author-bio/Inspector.js:327
+#: assets/build/blocks.js:1
+msgid "Button Label"
+msgstr ""
+
+#: assets/admin/blocks/author-bio/Inspector.js:342
+#: assets/build/blocks.js:1
+msgid "Image Shape"
+msgstr ""
+
+#: assets/admin/blocks/categories/attributes.js:12
+#: assets/admin/blocks/categories/index.js:37
+#: assets/build/blocks.js:1
+msgid "Categories"
+msgstr ""
+
+#: assets/admin/blocks/categories/attributes.js:26
+#: assets/admin/blocks/categories/Inspector.js:43
+#: assets/admin/blocks/popular-posts/Inspector.js:123
+#: assets/admin/blocks/recent-posts/Inspector.js:85
+#: assets/build/blocks.js:1
+msgid "Layout One"
+msgstr ""
+
+#: assets/admin/blocks/categories/Categories.js:96
+#: assets/admin/blocks/categories/Save.js:36
+#: assets/build/blocks.js:1
+msgid " Post"
+msgstr ""
+
+#: assets/admin/blocks/categories/Categories.js:96
+#: assets/admin/blocks/categories/Save.js:36
+#: assets/build/blocks.js:1
+msgid " Posts"
+msgstr ""
+
+#: assets/admin/blocks/categories/index.js:21
+#: assets/build/blocks.js:1
+msgid "Rishi - Categories"
+msgstr ""
+
+#: assets/admin/blocks/categories/index.js:22
+#: assets/build/blocks.js:1
+msgid "Add a customizable Categories."
+msgstr ""
+
+#: assets/admin/blocks/categories/index.js:38
+#: assets/build/blocks.js:1
+msgid "Rishi Categories"
+msgstr ""
+
+#: assets/admin/blocks/categories/Inspector.js:23
+#: assets/build/blocks.js:1
+msgid "Categories Settings"
+msgstr ""
+
+#: assets/admin/blocks/categories/Inspector.js:38
+#: assets/build/blocks.js:1
+msgid "Choose Layout"
+msgstr ""
+
+#: assets/admin/blocks/categories/Inspector.js:47
+#: assets/admin/blocks/popular-posts/Inspector.js:127
+#: assets/admin/blocks/recent-posts/Inspector.js:89
+#: assets/build/blocks.js:1
+msgid "Layout Two"
+msgstr ""
+
+#: assets/admin/blocks/categories/Inspector.js:61
+#: assets/build/blocks.js:1
+msgid "Categories List"
+msgstr ""
+
+#: assets/admin/blocks/categories/Inspector.js:72
+#: assets/build/blocks.js:1
+msgid "Show Post Count"
+msgstr ""
+
+#: assets/admin/blocks/facebook/attributes.js:8
+#: assets/build/blocks.js:1
+msgid "Follow Us"
+msgstr ""
+
+#: assets/admin/blocks/facebook/index.js:22
+#: assets/build/blocks.js:1
+msgid "Rishi - Facebook"
+msgstr ""
+
+#: assets/admin/blocks/facebook/index.js:23
+#: assets/build/blocks.js:1
+msgid "Add a customizable facebook blocks."
+msgstr ""
+
+#: assets/admin/blocks/facebook/index.js:29
+#: assets/build/blocks.js:1
+msgid "facebook"
+msgstr ""
+
+#: assets/admin/blocks/facebook/inspector.js:32
+#: assets/build/blocks.js:1
+msgid "Enter valid Facebook Page URL"
+msgstr ""
+
+#: assets/admin/blocks/facebook/inspector.js:38
+#: assets/build/blocks.js:1
+msgid "Tabs"
+msgstr ""
+
+#: assets/admin/blocks/facebook/inspector.js:42
+#: assets/build/blocks.js:1
+msgid "Timeline"
+msgstr ""
+
+#: assets/admin/blocks/facebook/inspector.js:43
+#: assets/build/blocks.js:1
+msgid "Messages"
+msgstr ""
+
+#: assets/admin/blocks/facebook/inspector.js:51
+#: assets/build/blocks.js:1
+msgid "Width"
+msgstr ""
+
+#: assets/admin/blocks/facebook/inspector.js:69
+#: assets/build/blocks.js:1
+msgid "Height"
+msgstr ""
+
+#: assets/admin/blocks/facebook/inspector.js:87
+#: assets/build/blocks.js:1
+msgid "Cover Photo"
+msgstr ""
+
+#: assets/admin/blocks/facebook/inspector.js:97
+#: assets/build/blocks.js:1
+msgid "Small Header"
+msgstr ""
+
+#: assets/admin/blocks/pinterest/Edit.js:30
+#: assets/build/blocks.js:1
+msgid "Enter Title Here"
+msgstr ""
+
+#: assets/admin/blocks/pinterest/Inspector.js:15
+#: assets/build/blocks.js:1
+msgid "Pinterest Block Title"
+msgstr ""
+
+#: assets/admin/blocks/popular-posts/attributes.js:12
+#: assets/admin/blocks/popular-posts/index.js:29
+#: assets/admin/blocks/posts-tab/attributes.js:20
+#: assets/build/blocks.js:1
+msgid "Popular Posts"
+msgstr ""
+
+#: assets/admin/blocks/popular-posts/index.js:21
+#: assets/build/blocks.js:1
+msgid "Rishi - Popular Posts"
+msgstr ""
+
+#: assets/admin/blocks/popular-posts/index.js:22
+#: assets/build/blocks.js:1
+msgid "Add a customizable Popular Posts."
+msgstr ""
+
+#: assets/admin/blocks/popular-posts/index.js:30
+#: assets/build/blocks.js:1
+msgid "Popular"
+msgstr ""
+
+#: assets/admin/blocks/popular-posts/Inspector.js:36
+#: assets/admin/blocks/posts-tab/Inspector.js:39
+#: assets/admin/blocks/recent-posts/Inspector.js:32
+#: assets/build/blocks.js:1
+msgid "Number of Posts"
+msgstr ""
+
+#: assets/admin/blocks/popular-posts/Inspector.js:49
+#: assets/build/blocks.js:1
+msgid "Show Posts Based on"
+msgstr ""
+
+#: assets/admin/blocks/popular-posts/Inspector.js:53
+#: assets/build/blocks.js:1
+msgid "Views"
+msgstr ""
+
+#: assets/admin/blocks/popular-posts/Inspector.js:54
+#: assets/build/blocks.js:1
+msgid "Comments"
+msgstr ""
+
+#: assets/admin/blocks/popular-posts/Inspector.js:63
+#: assets/admin/blocks/posts-tab/Inspector.js:54
+#: assets/admin/blocks/recent-posts/Inspector.js:47
+#: assets/build/blocks.js:1
+msgid "Featured Image"
+msgstr ""
+
+#: assets/admin/blocks/popular-posts/Inspector.js:73
+#: assets/admin/blocks/posts-tab/Inspector.js:65
+#: assets/admin/blocks/recent-posts/Inspector.js:58
+#: assets/build/blocks.js:1
+msgid "Post Date"
+msgstr ""
+
+#: assets/admin/blocks/popular-posts/Inspector.js:84
+#: assets/build/blocks.js:1
+msgid "Views Count"
+msgstr ""
+
+#: assets/admin/blocks/popular-posts/Inspector.js:96
+#: assets/build/blocks.js:1
+msgid "Comments Count"
+msgstr ""
+
+#: assets/admin/blocks/popular-posts/Inspector.js:118
+#: assets/admin/blocks/recent-posts/Inspector.js:80
+#: assets/build/blocks.js:1
+msgid "Layout"
+msgstr ""
+
+#: assets/admin/blocks/popular-posts/Inspector.js:131
+#: assets/admin/blocks/recent-posts/Inspector.js:93
+#: assets/build/blocks.js:1
+msgid "Layout Three"
+msgstr ""
+
+#: assets/admin/blocks/posts-tab/attributes.js:16
+#: assets/admin/blocks/recent-posts/attributes.js:9
+#: assets/admin/blocks/recent-posts/index.js:29
+#: assets/build/blocks.js:1
+msgid "Recent Posts"
+msgstr ""
+
+#: assets/admin/blocks/posts-tab/index.js:21
+#: assets/build/blocks.js:1
+msgid "Rishi - Posts Tab"
+msgstr ""
+
+#: assets/admin/blocks/posts-tab/index.js:22
+#: assets/build/blocks.js:1
+msgid "Add a customizable Posts Tab."
+msgstr ""
+
+#: assets/admin/blocks/posts-tab/index.js:29
+#: assets/build/blocks.js:1
+msgid "Posts Tab"
+msgstr ""
+
+#: assets/admin/blocks/posts-tab/index.js:30
+#: assets/build/blocks.js:1
+msgid "Tab"
+msgstr ""
+
+#: assets/admin/blocks/posts-tab/Inspector.js:23
+#: assets/build/blocks.js:1
+msgid "Tab-1 Title"
+msgstr ""
+
+#: assets/admin/blocks/posts-tab/Inspector.js:31
+#: assets/build/blocks.js:1
+msgid "Tab-2 Title"
+msgstr ""
+
+#: assets/admin/blocks/recent-posts/index.js:21
+#: assets/build/blocks.js:1
+msgid "Rishi - Recent Posts"
+msgstr ""
+
+#: assets/admin/blocks/recent-posts/index.js:22
+#: assets/build/blocks.js:1
+msgid "Add a customizable Recent Posts."
+msgstr ""
+
+#: assets/admin/blocks/recent-posts/index.js:30
+#: assets/build/blocks.js:1
+msgid "Recent"
+msgstr ""
+
+#. translators: placeholder here means the actual version.
+#: assets/admin/components/Changelog.js:37
+#: assets/build/dashboard.js:2
+msgid "Version: %s"
+msgstr ""
+
+#. translators: placeholder here means the actual date.
+#: assets/admin/components/Changelog.js:44
+#: assets/build/dashboard.js:3
+msgid "Released on %s"
+msgstr ""
+
+#: assets/admin/components/Changelog.js:143
+#: assets/build/dashboard.js:3
+msgid "Companion"
+msgstr ""
+
+#: assets/admin/components/Changelog.js:149
+#: assets/build/dashboard.js:3
+msgid "Pro"
+msgstr ""
+
+#: assets/admin/components/Changelog.js:156
+#: assets/build/dashboard.js:3
+msgid "New Feature"
+msgstr ""
+
+#: assets/admin/components/Changelog.js:160
+#: assets/build/dashboard.js:3
+msgid "Fix"
+msgstr ""
+
+#: assets/admin/components/Changelog.js:164
+#: assets/build/dashboard.js:3
+msgid "Update"
+msgstr ""
+
+#: assets/admin/components/Changelog.js:184
+#: assets/build/dashboard.js:3
+msgid "No changelog present at the moment."
+msgstr ""
+
+#: assets/admin/components/Extensions.js:75
+#: assets/admin/components/ui-components/PluginBlock.js:74
+#: assets/build/dashboard.js:1
+msgid "Deactivate"
+msgstr ""
+
+#: assets/admin/components/Extensions.js:76
+#: assets/admin/components/ui-components/PluginBlock.js:84
+#: assets/build/dashboard.js:1
+msgid "Activate"
+msgstr ""
+
+#: assets/admin/components/Extensions.js:84
+#: assets/build/dashboard.js:1
+msgid "Configure"
+msgstr ""
+
+#: assets/admin/components/Extensions.js:227
+#: assets/build/dashboard.js:1
+msgid "Free Extensions"
+msgstr ""
+
+#: assets/admin/components/Extensions.js:231
+#: assets/build/dashboard.js:1
+msgid "Pro Extensions"
+msgstr ""
+
+#: assets/admin/components/ui-components/PluginBlock.js:99
+#: assets/build/dashboard.js:1
+msgid "Install"
+msgstr ""
+
+#: assets/admin/components/ui-components/PluginBlock.js:110
+#: assets/build/dashboard.js:1
+msgid "Download"
+msgstr ""
+
+#: assets/admin/components/ui-components/PluginBlock.js:116
+#: assets/build/dashboard.js:1
+msgid "COMING SOON"
+msgstr ""
+
+#: assets/admin/header/EditConditions.js:83
+#: assets/admin/options/DisplayCondition.js:41
+#: assets/build/options.js:1
+msgid "Add/Edit Conditions"
+msgstr ""
+
+#: assets/admin/header/EditConditions.js:98
+#: assets/build/options.js:1
+msgid "Add one or more conditions in order to display your header."
+msgstr ""
+
+#: assets/admin/header/EditConditions.js:142
+#: assets/admin/options/DisplayCondition.js:73
+#: assets/build/options.js:1
+msgid "Save Conditions"
+msgstr ""
+
+#: assets/admin/header/PanelsManager.js:55
+#: assets/build/options.js:1
+msgid "Global Header"
+msgstr ""
+
+#: assets/admin/header/PanelsManager.js:71
+#: assets/build/options.js:1
+msgid "Edit Conditions"
+msgstr ""
+
+#: assets/admin/header/PanelsManager.js:169
+#: assets/build/options.js:1
+msgid "Remove header"
+msgstr ""
+
+#: assets/admin/NavbarHook.js:8
+#: assets/build/dashboard.js:1
+msgid "Extensions"
+msgstr ""
+
+#: assets/admin/NavbarHook.js:15
+#: assets/build/dashboard.js:1
+msgid "Useful Plugins"
+msgstr ""
+
+#: assets/admin/NavbarHook.js:22
+#: assets/build/dashboard.js:1
+msgid "Changelog"
+msgstr ""
+
+#: assets/admin/options/ConditionsManager.js:86
+#: assets/build/options.js:1
+msgid "Select variation"
+msgstr ""
+
+#: assets/admin/options/ConditionsManager.js:111
+#: assets/build/options.js:1
+msgid "Select rule"
+msgstr ""
+
+#: assets/admin/options/ConditionsManager.js:168
+#: assets/build/options.js:1
+msgid "Select taxonomy"
+msgstr ""
+
+#: assets/admin/options/ConditionsManager.js:202
+#: assets/build/options.js:1
+msgid "Select language"
+msgstr ""
+
+#: assets/admin/options/ConditionsManager.js:259
+#: assets/build/options.js:1
+msgid "Add Display Condition"
+msgstr ""
+
+#: assets/admin/options/ConditionsManager.js:278
+#: assets/build/options.js:1
+msgid "Add User Condition"
+msgstr ""
+
+#: assets/admin/options/ConditionsManager/PostIdPicker.js:67
+#: assets/build/options.js:1
+msgid "Type to search by ID or title..."
+msgstr ""
+
+#: assets/admin/options/ConditionsManager/PostIdPicker.js:73
+#: assets/build/options.js:1
+msgid "Select post"
+msgstr ""
+
+#: assets/admin/options/ConditionsManager/PostIdPicker.js:75
+#: assets/build/options.js:1
+msgid "Select page"
+msgstr ""
+
+#: assets/admin/options/CustomizerResetOptions.js:18
+#: assets/build/options.js:1
+msgid "Reset Customizer"
+msgstr ""
+
+#: assets/admin/options/CustomizerResetOptions.js:27
+#: assets/build/options.js:1
+msgid "Reset Settings"
+msgstr ""
+
+#: assets/admin/options/CustomizerResetOptions.js:29
+#: assets/build/options.js:1
+msgid "You are about to reset all settings to their default values, are you sure you want to continue?"
+msgstr ""
+
+#: assets/admin/options/DisplayCondition.js:14
+#: assets/build/options.js:1
+msgid "Transparent Header Display Conditions"
+msgstr ""
+
+#: assets/admin/options/DisplayCondition.js:15
+#: assets/build/options.js:1
+msgid "Add one or more conditions to display the transparent header."
+msgstr ""
+
+#: assets/admin/options/SimpleButton.js:6
+#: assets/build/options.js:1
+msgid "Confirm"
+msgstr ""
+
+#: assets/admin/options/SimpleButton.js:26
+#: assets/build/options.js:1
+msgid "Successfully Flushed"
+msgstr ""
+
+#: assets/admin/options/SimpleButton.js:29
+#: assets/build/options.js:1
+msgid "Failed, Reload Page and Try Again"
+msgstr ""
+
+#: assets/admin/userSocials/Main.js:21
+#: assets/build/userSocial.js:1
+msgid "User Social Links"
+msgstr ""
+
+#: assets/admin/userSocials/UserMain.js:39
+#: assets/build/userSocial.js:1
+msgid "Add Links"
+msgstr ""
+
+#: assets/admin/userSocials/UserMain.js:50
+#: assets/admin/userSocials/UserMain.js:61
+#: assets/admin/userSocials/UserMain.js:72
+#: assets/admin/userSocials/UserMain.js:83
+#: assets/admin/userSocials/UserMain.js:94
+#: assets/admin/userSocials/UserMain.js:105
+#: assets/admin/userSocials/UserMain.js:116
+#: assets/build/userSocial.js:1
+msgid "URL"
+msgstr ""
+
+#: assets/admin/userSocials/UserMain.js:68
+#: assets/build/userSocial.js:1
+msgid "Instagram"
+msgstr ""
+
+#: assets/admin/userSocials/UserMain.js:90
+#: assets/build/userSocial.js:1
+msgid "Linkedin"
+msgstr ""
+
+#: assets/admin/userSocials/UserMain.js:101
+#: assets/build/userSocial.js:1
+msgid "Tiktok"
+msgstr ""
+
+#: assets/admin/userSocials/UserMain.js:112
+#: assets/build/userSocial.js:1
+msgid "Medium"
+msgstr ""
+
+#: assets/admin/userSocials/UserMain.js:135
+#: assets/build/userSocial.js:1
+msgid "Save"
+msgstr ""
+
+#: assets/admin/blocks/pinterest/block.json
+msgctxt "block title"
+msgid "Rishi - Pinterest"
+msgstr ""
+
+#: assets/admin/blocks/pinterest/block.json
+msgctxt "block description"
+msgid "Display Pinterest feed."
+msgstr ""
+
+#: assets/admin/blocks/pinterest/block.json
+msgctxt "block keyword"
+msgid "pinterest"
+msgstr ""
+
+#: assets/admin/blocks/pinterest/block.json
+msgctxt "block keyword"
+msgid "social media"
+msgstr ""
+
+#: assets/admin/blocks/pinterest/block.json
+msgctxt "block keyword"
+msgid "rishi"
+msgstr ""
